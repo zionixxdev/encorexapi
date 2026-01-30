@@ -1,0 +1,5 @@
+Flask
+flask-cors
+pyjwt
+requests
+supabase
